@@ -1,0 +1,10 @@
+export const COLORS = {
+  GOLD: '#FFD95A',
+  YELLOW: '#FFF7D4',
+  BROWN: '#4C3D3D',
+  BEIGE: '#C38154',
+  ORANGE: '#FF8400',
+  GREY: '#686D76',
+  BLACK: '#151515',
+  GREEN: '#059212',
+};
